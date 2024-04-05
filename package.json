@@ -1,7 +1,7 @@
 {
   "publisher": "lokalise",
   "name": "i18n-ally",
-  "version": "2.12.0",
+  "version": "2.13.0",
   "displayName": "i18n Ally",
   "description": "🌍 All in one i18n extension for VS Code",
   "keywords": [
@@ -835,7 +835,8 @@
               "fluent-vue",
               "fluent-vue-sfc",
               "next-intl",
-              "next-international"
+              "next-international",
+              "gravity-i18n"
             ]
           },
           "description": "%config.enabled_frameworks%"
